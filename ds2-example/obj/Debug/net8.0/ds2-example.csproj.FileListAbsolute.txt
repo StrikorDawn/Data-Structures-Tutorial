@@ -1,0 +1,15 @@
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds2-example\bin\Debug\net8.0\ds2-example.exe
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds2-example\bin\Debug\net8.0\ds2-example.deps.json
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds2-example\bin\Debug\net8.0\ds2-example.runtimeconfig.json
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds2-example\bin\Debug\net8.0\ds2-example.dll
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds2-example\bin\Debug\net8.0\ds2-example.pdb
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds2-example\obj\Debug\net8.0\ds2-example.GeneratedMSBuildEditorConfig.editorconfig
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds2-example\obj\Debug\net8.0\ds2-example.AssemblyInfoInputs.cache
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds2-example\obj\Debug\net8.0\ds2-example.AssemblyInfo.cs
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds2-example\obj\Debug\net8.0\ds2-example.csproj.CoreCompileInputs.cache
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds2-example\obj\Debug\net8.0\ds2-example.sourcelink.json
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds2-example\obj\Debug\net8.0\ds2-example.dll
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds2-example\obj\Debug\net8.0\refint\ds2-example.dll
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds2-example\obj\Debug\net8.0\ds2-example.pdb
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds2-example\obj\Debug\net8.0\ds2-example.genruntimeconfig.cache
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds2-example\obj\Debug\net8.0\ref\ds2-example.dll
