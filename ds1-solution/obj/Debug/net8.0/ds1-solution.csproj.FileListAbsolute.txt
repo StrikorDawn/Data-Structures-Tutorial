@@ -1,0 +1,15 @@
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds1-solution\bin\Debug\net8.0\ds1-solution.exe
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds1-solution\bin\Debug\net8.0\ds1-solution.deps.json
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds1-solution\bin\Debug\net8.0\ds1-solution.runtimeconfig.json
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds1-solution\bin\Debug\net8.0\ds1-solution.dll
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds1-solution\bin\Debug\net8.0\ds1-solution.pdb
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds1-solution\obj\Debug\net8.0\ds1-solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds1-solution\obj\Debug\net8.0\ds1-solution.AssemblyInfoInputs.cache
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds1-solution\obj\Debug\net8.0\ds1-solution.AssemblyInfo.cs
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds1-solution\obj\Debug\net8.0\ds1-solution.csproj.CoreCompileInputs.cache
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds1-solution\obj\Debug\net8.0\ds1-solution.sourcelink.json
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds1-solution\obj\Debug\net8.0\ds1-solution.dll
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds1-solution\obj\Debug\net8.0\refint\ds1-solution.dll
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds1-solution\obj\Debug\net8.0\ds1-solution.pdb
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds1-solution\obj\Debug\net8.0\ds1-solution.genruntimeconfig.cache
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds1-solution\obj\Debug\net8.0\ref\ds1-solution.dll

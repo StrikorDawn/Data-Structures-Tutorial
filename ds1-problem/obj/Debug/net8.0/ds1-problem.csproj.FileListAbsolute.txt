@@ -1,0 +1,15 @@
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds1-problem\bin\Debug\net8.0\ds1-problem.exe
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds1-problem\bin\Debug\net8.0\ds1-problem.deps.json
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds1-problem\bin\Debug\net8.0\ds1-problem.runtimeconfig.json
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds1-problem\bin\Debug\net8.0\ds1-problem.dll
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds1-problem\bin\Debug\net8.0\ds1-problem.pdb
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds1-problem\obj\Debug\net8.0\ds1-problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds1-problem\obj\Debug\net8.0\ds1-problem.AssemblyInfoInputs.cache
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds1-problem\obj\Debug\net8.0\ds1-problem.AssemblyInfo.cs
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds1-problem\obj\Debug\net8.0\ds1-problem.csproj.CoreCompileInputs.cache
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds1-problem\obj\Debug\net8.0\ds1-problem.sourcelink.json
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds1-problem\obj\Debug\net8.0\ds1-problem.dll
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds1-problem\obj\Debug\net8.0\refint\ds1-problem.dll
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds1-problem\obj\Debug\net8.0\ds1-problem.pdb
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds1-problem\obj\Debug\net8.0\ds1-problem.genruntimeconfig.cache
+C:\04 Academics\College\CSE 212 Data Structures\Week 10\final-project-2-StrikorDawn\ds1-problem\obj\Debug\net8.0\ref\ds1-problem.dll

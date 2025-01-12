@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ds1-problem/1.0.0": {
+        "runtime": {
+          "ds1-problem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ds1-problem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
